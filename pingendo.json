@@ -1,0 +1,4 @@
+[ 
+  "<a href='#' class='btn btn-outline-primary pi-draggable'>Button</a>",
+  "<a href='#' class='btn btn-outline-primary pi-draggable'><i class='fa fa-check'></i> Button</a>"
+ ]
