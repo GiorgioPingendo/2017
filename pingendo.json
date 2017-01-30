@@ -1,1 +1,1 @@
-{"snippets":["<h1 class=\"display-1 pi-draggable\">Title</h1>"]}
+{"snippets":["<h1 class=\"display-1 pi-draggable\">Title</h1>","<div class=\"card-block pi-draggable\">\n              <h4 class=\"card-title\">Card title</h4>\n              <h6 class=\"card-subtitle text-muted\">Support card subtitle</h6>\n              <p class=\"card-text p-y-1\">Some quick example text to build on the card title .</p>\n              <a href=\"#\" class=\"card-link\">link</a>\n              <a href=\"#\" class=\"card-link\">Second link</a>\n            </div>"]}
